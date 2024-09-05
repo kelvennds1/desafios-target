@@ -1,0 +1,19 @@
+{
+  "name": "desafio-tecnico-target",
+  "version": "1.0.0",
+  "description": "Repositório para os códigos criados no desafio da Target Sistemas",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "desafio1": "node build/desafio1.js",
+    "desafio2": "node build/desafio2.js"
+
+  },
+  "keywords": [],
+  "author": "Kelven Cristian",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.5.4"
+  }
+}
